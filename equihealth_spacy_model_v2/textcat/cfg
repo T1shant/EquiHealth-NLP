@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "Availability",
+    "Accessibility",
+    "Acceptability",
+    "Quality",
+    "Child-Specific Protections"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
